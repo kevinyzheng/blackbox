@@ -3,3 +3,4 @@ google_upload/
 __pycache__/
 results/
 .DS_Store
+*.csv
